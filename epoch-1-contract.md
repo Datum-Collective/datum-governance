@@ -10,7 +10,7 @@ It applies only to the period and members defined below and does not create obli
 
 PURPOSE:
 
-The purpose of Datum Collective during Epoch 1 is to collaboratively design, build, and ship technical projects for learning, experimentation, and proof-of-work.
+The purpose of Datum Collective during Epoch 1 is to establish shared technical judgment by collaboratively deciding, building, and shipping constrained technical artifacts that produce concrete proof-of-work.
 Epoch 1 is exploratory in nature. It does not guarantee commercial output, profit, or continuation into future epochs.
 
 
@@ -37,6 +37,12 @@ DECISION MAKING:
 
 Decisions affecting the collective as a whole require agreement by a majority of Epoch 1 members.
 
+Decisions are made after time-bounded discussion and evaluation against agreed constraints.
+
+Once a decision is made, all members commit to its execution regardless of prior disagreement.
+
+Persistent refusal to commit after collective decisions may be treated as non-participation.
+
 The following decisions require unanimous agreement:
 - Admission of new members
 - Removal of a member
@@ -46,7 +52,7 @@ The following decisions require unanimous agreement:
 
 WORK EXPECTATIONS:
 
-Members are expected to contribute meaningfully to at least one project or initiative during Epoch 1.
+Members are expected to actively participate in convergence cycles and take ownership of at least one deliverable or responsibility during Epoch 1.
 
 Contribution may include design, development, research, documentation, or other agreed technical work.
 
@@ -57,6 +63,12 @@ INTELLECTUAL PROPERTY:
 All work produced under Datum Collective during Epoch 1 is considered collectively owned by the Epoch 1 members.
 
 No member may commercially use, license, or sell collective work without unanimous agreement of the members.
+
+
+EXECUTION STANDARD:
+All projects undertaken during Epoch 1 must culminate in a concrete, reviewable outcome (e.g. demo, prototype, write-up, or repository).
+
+Failure is acceptable; lack of a tangible outcome is not.
 
 
 EQUITY AND COMPENSATION:
