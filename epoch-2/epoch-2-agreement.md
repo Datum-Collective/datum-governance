@@ -4,19 +4,21 @@
 
 ## 1. Nature of the Agreement
 
-This document governs participation in Datum Collective during Epoch 2.
+This document defines the operating and governance rules for Datum Collective during Epoch 2.
 
-It is a coordination and governance agreement between the participants of Datum Collective. It is not, by itself, a company incorporation document, employment contract, equity agreement, or guarantee of compensation.
+Datum is a **collegiate engineering collective**. It is not intended to operate as a startup, company, or formal commercial organisation. This document exists to give the collective enough structure to coordinate projects, assign responsibility, make decisions, and resolve disagreements without creating unnecessary bureaucracy.
 
-Where a separate written agreement applies to a person or project, that agreement takes precedence over this document for the matters it specifically governs.
+It is an internal governance document. It is not, by itself, an employment contract, equity agreement, or guarantee of compensation.
 
 ## 2. Purpose
 
-Datum Collective exists to develop technical capability through the design, construction, testing, and documentation of engineering projects.
+Datum exists to give its members a place to pursue engineering and research projects that they find technically interesting and would benefit from working on together.
 
-Epoch 2 establishes a more structured operating model while retaining the experimental and engineering-focused nature of the collective.
+Projects may involve robotics, software, embedded systems, electronics, mechanical engineering, aerospace, research, or other technical fields.
 
-Projects should produce concrete and reviewable outcomes. These may include working prototypes, software, hardware, technical documentation, research, demonstrations, or other agreed deliverables.
+A project does not need to become a product or business to be worthwhile. A useful result may be a working system, prototype, experiment, research result, technical report, open-source project, or meaningful engineering experience.
+
+During Epoch 2, Datum will undertake a research project during the academic semester alongside its other engineering work.
 
 ## 3. Members and Roles
 
@@ -28,126 +30,142 @@ The initial Epoch 2 members are:
 - Ridhviraj Anil Rikke — Lead Aerospace & Mechanical Engineer
 - Deepak Patil — Mechanical Systems Engineer
 
-Roles define responsibility and technical scope. A role does not automatically grant additional ownership, voting rights, or authority over the collective as a whole.
+Roles define technical responsibility and scope. They are not corporate ranks and do not automatically determine ownership or voting rights.
 
 ### 3.1 Cofounders
 
-Cofounders are responsible for the overall direction, governance, administration, and continuity of Datum Collective.
+The Cofounders are responsible for the overall direction, administration, continuity, and governance of Datum.
 
 ### 3.2 Founding and Lead Engineers
 
-Founding and Lead Engineers hold substantial technical responsibility within their areas of expertise and may lead projects, technical workstreams, or engineering disciplines.
+Founding and Lead Engineers hold significant technical responsibility within their areas of expertise and may lead projects, technical workstreams, or engineering disciplines.
 
 ### 3.3 Engineers and Contributors
 
-Engineers and contributors are responsible for the work assigned or undertaken within their technical scope and are expected to contribute to the development and completion of Datum projects.
+Engineers and contributors are responsible for the work they undertake and are expected to contribute meaningfully to the development and completion of Datum projects.
 
 ## 4. Technical Authority
 
-Technical decisions within a project should be made by the person responsible for that technical area, provided those decisions remain within the agreed project scope, resources, and constraints.
+Technical decisions should remain with the people doing the technical work.
 
-A project may designate a Project Lead who is responsible for coordinating execution and ensuring that the project produces its agreed outcome.
+A project may designate a Project Lead responsible for coordinating the work and ensuring that the project reaches its agreed objective.
 
-Technical leads may review, reject, or require revision of work within their area where necessary to maintain engineering quality, compatibility, safety, or project requirements.
+A technical lead may review or require changes to work within their area where necessary for technical correctness, compatibility, safety, or project requirements.
 
-No individual may unilaterally commit Datum to a material external obligation, commercial arrangement, expenditure, or change in collective policy.
+Technical authority within a project does not grant authority over unrelated projects or over Datum as a whole.
 
-## 5. Collective Decision Making
+## 5. Decision Making
 
-Decisions affecting Datum as a whole should be made through discussion, followed by a recorded decision where the matter is significant.
+Datum should favour discussion and technical consensus before formal voting. Voting exists to resolve decisions that cannot otherwise be settled.
 
-Ordinary operational decisions require a simple majority of active members with voting rights.
+Ordinary operational decisions may be made by a simple majority of active members with voting rights.
 
 The following matters require unanimous approval of the Cofounders:
 
 - Admission or removal of a member
 - Changes to the governance structure
 - Changes to the rights or responsibilities of Cofounders
-- Sale, transfer, or exclusive licensing of significant Datum intellectual property
-- Commercial commitments made in the name of Datum Collective
+- Creation of a formal commercial commitment in Datum's name
+- Sale or exclusive licensing of significant Datum work
 - Amendments to this agreement
 - Termination of Epoch 2
 
-A decision once made is expected to be supported in execution unless new technical or material information justifies reopening it.
+No individual may commit Datum to a significant financial, legal, or external obligation without the required approval.
+
+Once a decision has been made, members are expected to support its execution unless new information provides a substantive reason to reconsider it.
 
 ## 6. Membership
 
-Admission of a new member requires unanimous approval of the Cofounders and agreement to the applicable Datum terms.
+New members are admitted by unanimous approval of the Cofounders.
 
-A member may resign by notifying the Cofounders.
+A member may leave Datum at any time by notifying the Cofounders.
 
-A member may be removed for sustained non-participation, serious misconduct, breach of the applicable agreements, misuse of Datum property, or conduct materially harmful to the collective. Removal requires unanimous approval of the remaining Cofounders.
+A member may be removed for sustained non-participation, serious misconduct, misuse of Datum resources, or conduct that materially harms the collective. Removal requires unanimous approval of the remaining Cofounders.
 
-Leaving Datum ends the person's authority to make decisions on behalf of the collective.
+Leaving Datum ends the person's authority to act on behalf of the collective.
 
-## 7. Work and Participation
+## 7. Participation and Work
 
-Members are expected to contribute meaningful technical, operational, or organisational work appropriate to their role.
+Datum is a collegiate collective and participation is primarily driven by interest and commitment rather than formal employment obligations.
 
-Work should be documented sufficiently for another member to understand, review, reproduce, maintain, or continue it where reasonably practical.
+Members are expected to contribute meaningful work appropriate to their role and to communicate when they cannot fulfil a responsibility they have taken on.
 
-Persistent non-participation may result in a review of the member's role or continued participation.
+Work should be documented sufficiently for another member to understand, review, maintain, or continue it where reasonably practical.
 
-## 8. Intellectual Property
+Persistent non-participation may result in a review of a member's role or continued membership.
 
-Work created specifically for Datum projects during participation in Epoch 2 must be identified and documented as Datum project work.
+## 8. Project Structure
 
-Pre-existing work, third-party material, and open-source software remain subject to their original ownership or licence terms unless separately transferred or licensed.
+Significant projects should have:
 
-No member may independently sell, license, publish as proprietary work, or otherwise commercially exploit significant Datum project work without the approval required under this agreement or a separate project agreement.
+- a defined objective;
+- identified people responsible for the work;
+- an appropriate repository or technical record;
+- a tangible output, experiment, or research result; and
+- sufficient documentation to allow review or continuation.
 
-Where ownership or commercialisation of a project requires a formal legal transfer, licence, or assignment, that arrangement must be documented separately by the parties with the appropriate authority to enter into it.
+Projects may be independent or interdisciplinary. A project lead is responsible for the project, not for the collective outside its scope.
 
-## 9. Confidentiality and External Representation
+## 9. Intellectual Property and Attribution
 
-Members must not disclose confidential technical, commercial, personal, or operational information obtained through Datum without authorisation.
+Datum should default toward open technical work where practical.
 
-Only members authorised by the Cofounders may represent Datum in formal external communications, commercial negotiations, partnerships, or commitments.
+Pre-existing work remains the property of its original creator. Third-party and open-source work remains subject to its applicable licence.
 
-Public technical work may be released where it does not disclose confidential information or violate project-specific restrictions.
+Work created specifically as part of a Datum project should be attributed to its contributors and documented as Datum project work.
 
-## 10. Project Records
+Members should not present another member's work as their own. Significant publication, release, or external use of a project should credit the people who materially contributed to it.
 
-Significant Datum projects should maintain appropriate technical records, including source code, CAD files, design documentation, test results, decisions, or other relevant project material.
+If a project later requires formal ownership, licensing, commercialisation, or another legal arrangement, that matter should be addressed separately at that time rather than assumed under this agreement.
 
-The project repository or designated storage location should be treated as the authoritative technical record for that project.
+## 10. Public Work and External Representation
+
+Datum is not a confidential organisation by default.
+
+Members may discuss and publish their work, experiments, designs, code, and results unless a specific project has an agreed restriction or another party's rights require otherwise.
+
+Members should not falsely represent personal opinions or unfinished work as an official position of Datum.
+
+Formal commitments made on behalf of Datum require Cofounder approval.
 
 ## 11. Engineering Standard
 
 Datum values technical correctness, measurable progress, documentation, and responsible experimentation.
 
-Failure during development is acceptable. Unexamined failure, repeated avoidable mistakes, and lack of a tangible outcome are not.
+Failure during development is acceptable when it produces useful information. Repeated avoidable mistakes, unsupported claims, and work that produces neither a result nor a useful lesson should be reconsidered.
 
 Members are expected to challenge technical assumptions when evidence warrants it and to accept review of their own work on the same basis.
 
-## 12. Compensation and Financial Matters
+## 12. Financial Matters
 
-Participation in Datum does not, by itself, create an entitlement to salary, equity, profit, reimbursement, or other compensation.
+Participation in Datum does not create an entitlement to salary, equity, profit, stipend, or reimbursement.
 
-Any compensation, reimbursement, stipend, equity arrangement, or other financial commitment must be established through a separate written agreement.
+Members may independently fund ordinary project expenses unless the collective has agreed otherwise.
 
-No member may commit Datum to a financial obligation without the required approval.
+Any significant expenditure using collective funds or resources requires the appropriate approval.
+
+If Datum later undertakes paid work, receives funding, or enters into a commercial arrangement, the applicable financial terms should be documented separately.
 
 ## 13. Records and Amendments
 
-This agreement is maintained under version control in the Datum Collective repository.
+This agreement and other significant governance documents are maintained under version control in the Datum repository.
 
 Changes must be made in writing and committed to the repository.
 
-Amendments require unanimous approval of the Cofounders.
+Amendments to this agreement require unanimous approval of the Cofounders.
 
-The Git history forms part of the record of the agreement and its amendments.
+Git history forms part of the record of changes to the agreement.
 
 ## 14. Epoch Duration and Transition
 
 Epoch 2 begins on 1 September 2026.
 
-Epoch 2 continues until the Cofounders formally establish a subsequent epoch or otherwise agree to terminate it.
+It continues until the Cofounders establish a subsequent epoch or formally terminate Epoch 2.
 
-A subsequent epoch should replace this agreement as the governing framework for that period rather than silently modifying the historical record of Epoch 2.
+A subsequent epoch should replace this agreement as the governing framework for that period rather than silently rewriting the historical record of Epoch 2.
 
 ## 15. Acknowledgement
 
-Participation in Datum Collective during Epoch 2 constitutes acknowledgement of this agreement and the responsibilities applicable to the participant's role.
+Participation in Datum Collective during Epoch 2 constitutes acknowledgement of the responsibilities and operating principles defined by this agreement.
 
-Where a participant is subject to a separate appointment, contributor, confidentiality, intellectual property, or project agreement, the documents should be read together and interpreted according to their respective scopes.
+Where a separate appointment or project agreement exists, it should be read together with this document. The separate agreement governs matters specifically covered by it.
