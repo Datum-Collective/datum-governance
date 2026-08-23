@@ -56,9 +56,9 @@ Datum is ultimately defined by the quality of its work, not the size of its memb
     │   └── ...
     │
     └── epoch-2/
-        ├── README.md
         ├── epoch-2-agreement.md
-        └── handbook.md
+        ├── epoch-2-handbook.md
+        └── epoch-2-code-of-conduct.md
 
 The governance repository is the historical record of Datum's structure and evolution.
 
