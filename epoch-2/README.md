@@ -48,15 +48,24 @@ Datum is ultimately defined by the quality of its work, not the size of its memb
 
 ## Repository
 
-```text
-datum-governance/
-│
-├── README.md
-│
-├── epoch-1/
-│   └── ...
-│
-└── epoch-2/
+    datum-governance/
+    │
     ├── README.md
-    ├── epoch-2-agreement.md
-    └── handbook.md
+    │
+    ├── epoch-1/
+    │   └── ...
+    │
+    └── epoch-2/
+        ├── README.md
+        ├── epoch-2-agreement.md
+        └── handbook.md
+
+The governance repository is the historical record of Datum's structure and evolution.
+
+For the current rules and operating model, see the documents inside the active Epoch.
+
+---
+
+**Datum Collective**
+
+*Build. Understand. Challenge. Document. Ship.*
