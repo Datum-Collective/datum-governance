@@ -1,38 +1,71 @@
 # Datum Collective
 
-This repository contains the historical governance record of Datum Collective Epoch 1 and the current governance documents for Epoch 2.
+Datum is an independent engineering collective.
 
-## Epoch 1
+We bring together people from different technical disciplines to build, research, and solve difficult problems together.
 
-**Epoch 1 has concluded.**
+> **A reference point. Not a milestone — a place to measure from.**
 
-Epoch 1 was Datum's initial exploratory period. The collective was small, and the main project completed during the epoch was a robotics project. The period was primarily about establishing the group, learning how to work together, and determining whether the idea of Datum was worth continuing.
+---
 
-The Epoch 1 agreement and its Git history are retained as an archive. They describe the collective as it existed during that period and should not be rewritten to reflect the current membership or structure.
+## Epochs
 
-## Epoch 2
+Datum develops through **Epochs** — distinct stages in the evolution of the collective.
 
-Datum has transitioned into Epoch 2 with a larger engineering team, defined technical roles, and several projects to pursue.
+Each Epoch establishes its own objectives, governance, membership, and direction. At the end of an Epoch, Datum reviews what was built, what was learned, what failed, and where the collective should go next.
 
-Epoch 2 is not a transition into a startup or company. Datum remains a **collegiate engineering collective**. Members work together on engineering and research projects because they find the problems interesting and want to build useful technical capability.
+### Epoch 1
 
-The purpose of the Epoch 2 governance framework is therefore practical: establish enough structure to assign responsibility, coordinate projects, make decisions, and keep work moving without turning Datum into an unnecessarily bureaucratic organisation.
+**Archived.**
 
-The collective's work now spans areas including software, robotics, embedded systems, electronics, mechanical engineering, aerospace, and research. During the academic semester, Datum is also undertaking a research project as part of its project work.
+The initial formation and exploration of Datum.
 
-## Repository Structure
+### Epoch 2
 
-```text
-epoch-1-contract.md       Historical Epoch 1 agreement
+**Active — 1 September 2026**
 
-epoch-2/
-├── README.md              Epoch 2 overview
-└── epoch-2-agreement.md   Epoch 2 operating and governance agreement
-```
+Epoch 2 is deliberately small and focused on building serious work, developing the collective, and establishing Datum's credibility through what it actually produces.
 
-## Current Status
+---
 
-**Epoch 1:** Archived  
-**Epoch 2:** Active, effective 1 September 2026
+## What We Believe
 
-The quality of Datum should ultimately be measured by the engineering and research it produces, not by the amount of organisational structure surrounding it.
+**Build over appearance.**
+
+**Understand before claiming to understand.**
+
+**Evidence over hierarchy.**
+
+**Question conventional solutions.**
+
+**Document what matters.**
+
+**Ship the work.**
+
+Datum is ultimately defined by the quality of its work, not the size of its membership, its branding, or how organised it appears.
+
+---
+
+## Repository
+
+    datum-governance/
+    │
+    ├── README.md
+    │
+    ├── epoch-1/
+    │   └── ...
+    │
+    └── epoch-2/
+        ├── README.md
+        ├── epoch-2-agreement.md
+        └── handbook.md
+
+The governance repository is the historical record of Datum's structure and evolution.
+
+For the current rules and operating model, see the documents inside the active Epoch.
+
+---
+
+**Datum Collective**
+
+*Build. Understand. Challenge. Document. Ship.*
