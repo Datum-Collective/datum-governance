@@ -53,6 +53,8 @@ Epoch 2 begins with the following members:
 - Agrajeet Sharma — Founding Engineer
 - Ridhviraj Anil Rikke — Lead Aerospace & Mechanical Engineer
 - Deepak Patil — Mechanical Systems Engineer
+- Devjeet Singh — Design & Systems Engineer
+- Arjun Nasalwai — Robotics Systems Engineer
 
 Titles communicate responsibility.
 
